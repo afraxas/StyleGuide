@@ -202,9 +202,9 @@ coding guideline
 </body>
 </html>
 ````
--JSP
+- JSP
 ````JSP
-
+<%@ page language="java" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <head>
     <meta charset="utf-8">
